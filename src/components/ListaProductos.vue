@@ -48,7 +48,7 @@
             this.listadoProductos = JSON.parse(localStorage.getItem("tienda"));
             this.setTienda();
          },
-         /*hace una peticion ajax para pedir un listado de productos 
+         /*Hace una peticion ajax para pedir un listado de productos 
          y lo guarda en localstorage*/
          peticionTienda() {
             axios.get('https://my.api.mockaroo.com/productos.json?key=cfcc2dd0')
