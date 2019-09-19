@@ -1,4 +1,8 @@
-# 01-tienda_online
+# 01-tienda_online Vue.js
+
+Actividad evaluable para la asignatura desarrollo web en entorno cliente del módulo superior de desarrollo de aplicaciones web
+
+<https://app-tienda-online-dwc.herokuapp.com/>
 
 ## Project setup
 ```
